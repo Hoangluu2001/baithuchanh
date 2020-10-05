@@ -20,7 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7f2dacf-e3fc-4a39-afac-4bde6341b7f8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/my.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai4/bai4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai4/my.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bai3.html" beforeDir="false" afterPath="$PROJECT_DIR$/bai3.html" afterDir="false" />
     </list>
