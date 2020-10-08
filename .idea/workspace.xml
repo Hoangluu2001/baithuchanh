@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7f2dacf-e3fc-4a39-afac-4bde6341b7f8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/luyentap3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sukienchuot.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,6 +60,11 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\LUU\bai4" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -84,7 +89,7 @@
       <workItem from="1602035015081" duration="4484000" />
       <workItem from="1602052140466" duration="13311000" />
       <workItem from="1602120397101" duration="4856000" />
-      <workItem from="1602139142806" duration="8512000" />
+      <workItem from="1602139142806" duration="9816000" />
     </task>
     <servers />
   </component>
@@ -102,5 +107,15 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602149753012">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1602149753012" />
+    <state x="256" y="-15" width="851" height="667" maximized="true" key="dock-window-1" timestamp="1602149761239">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="256" y="-15" width="851" height="667" maximized="true" key="dock-window-1/0.0.1280.680@0.0.1280.680" timestamp="1602149761239" />
   </component>
 </project>
