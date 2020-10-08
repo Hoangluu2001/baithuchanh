@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<script>
+   let year =+prompt(" nhập số năm vào đây");
+   if ( year % 4 ===0 && year % 100 !==0){
+       alert( year + " là năm nhuận ")
+   }
+   if (  year % 100 ===0 && year % 400 !==0){
+       alert( year + " không phải là năm nhuận ");
+   }
+   if ( year % 100 ===0 && year % 400 ===0 ){
+       alert( year + " là năm nhuận ");
+   }
+   if ( year % 4 !==0 && year % 100 !==0 && year %400 !==0){
+       alert( year + "không phải là năm nhuận")
+
+   }
+
+</script>
+
+</body>
+</html>
