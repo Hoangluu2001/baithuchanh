@@ -20,8 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7f2dacf-e3fc-4a39-afac-4bde6341b7f8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/baiNobita.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/toantu3ngoi.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +48,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CTDK" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -90,7 +88,9 @@
       <workItem from="1602035015081" duration="4484000" />
       <workItem from="1602052140466" duration="13311000" />
       <workItem from="1602120397101" duration="4856000" />
-      <workItem from="1602139142806" duration="12429000" />
+      <workItem from="1602139142806" duration="12743000" />
+      <workItem from="1602205798693" duration="151000" />
+      <workItem from="1602205983797" duration="13000" />
     </task>
     <servers />
   </component>
@@ -114,6 +114,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1602149753012" />
+    <state x="421" y="83" key="FileChooserDialogImpl" timestamp="1602205995690">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="83" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1602205995690" />
     <state x="256" y="-15" width="851" height="667" maximized="true" key="dock-window-1" timestamp="1602149761239">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
