@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    var weight =prompt(" nhập cân nặng ");
+    var height =prompt(" nhập chiều cao ");
+    var BMI = ( weight/(height*height));
+    if ( BMI<18.5){
+        alert("thiếu cân ")
+    }
+    else if (18.5 <=BMI && BMI< 25.5 ){
+        alert(" bình thường ")
+    }
+    else if ( 25.5 <= BMI && BMI < 30.0){
+        alert("thừa cân ")
+    }
+    else{
+        alert("béo phì")
+    }
+</script>
+</body>
+</html>
